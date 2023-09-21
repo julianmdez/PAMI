@@ -52,7 +52,7 @@ class EventFactoryImpl
     /**
      * This is our factory method.
      *
-     * @param string $message Literall message as received from ami.
+     * @param string $message Literall message as received from ami
      *
      * @return EventMessage
      */
